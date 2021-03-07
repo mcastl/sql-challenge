@@ -2,7 +2,7 @@
  
 
 
-This project aims to analize employee data. 
+This project aims to analize data using SQL. 
 
 ## Table of contents
 * [Schema](#https://github.com/mcastl/sql-challenge/blob/main/EmployeeSLQ/Schema.sql)
