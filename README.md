@@ -5,8 +5,8 @@
 This project aims to analize data using SQL. 
 
 ## Table of contents
-* [Schema](#https://github.com/mcastl/sql-challenge/blob/main/EmployeeSLQ/Schema.sql)
-* [Data Analysis](#https://github.com/mcastl/sql-challenge/blob/main/EmployeeSLQ/Data_analysis.sql)
+* [Schema](https://github.com/mcastl/sql-challenge/blob/main/EmployeeSLQ/Schema.sql)
+* [Data Analysis](https://github.com/mcastl/sql-challenge/blob/main/EmployeeSLQ/Data_analysis.sql)
 
 ## Features
 * Designing tables to hold the employees data
